@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C443EB87-84D5-4033-8D6C-EE5444A548F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultipleAppIcons/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8 - 4a837afa13e89005"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultipleAppIcons.ViewController.__deallocating_deinit"
+                  moduleName = "MultipleAppIcons"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/MultipleAppIcons/MultipleAppIcons/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8 - 9c3b95cd2a68138e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultipleAppIcons.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MultipleAppIcons.ViewController"
+                  moduleName = "MultipleAppIcons"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/MultipleAppIcons/MultipleAppIcons/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8 - 7789566394c9c72a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultipleAppIcons.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MultipleAppIcons.ViewController"
+                  moduleName = "MultipleAppIcons"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/MultipleAppIcons/MultipleAppIcons/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8 - c8ae668d017c96c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultipleAppIcons.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MultipleAppIcons.ViewController&gt;"
+                  moduleName = "MultipleAppIcons"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/MultipleAppIcons/MultipleAppIcons/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EBA4712E-B80D-4D87-B08C-E3D1CD8BE0C8 - e51c8f7a07af5421"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultipleAppIcons.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MultipleAppIcons.ViewController&gt;"
+                  moduleName = "MultipleAppIcons"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdihakinelmi/Desktop/MultipleAppIcons/MultipleAppIcons/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
